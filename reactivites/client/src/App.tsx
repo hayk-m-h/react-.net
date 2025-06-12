@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 
 function App() {
-  const [activities, setActivities] = useState([])
+  const [activities, setActivities] = useState<Activities[]>([])
 
   useEffect( () => {
     fetch('https://localhost:5001/api/activities')
