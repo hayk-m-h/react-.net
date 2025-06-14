@@ -1,4 +1,4 @@
-type Root = {
+type Activity = {
   id: string
   title: string
   date: string
