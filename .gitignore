@@ -1,7 +1,7 @@
 # sqlite files
-reactivities.db
-reactivities.db-shm
-reactivities.db-wal
+reactivites/API/reactivities.db
+reactivites/API/reactivities.db-shm
+reactivites/API/reactivities.db-wal
 
 # User-specific files
 *.rsuser
